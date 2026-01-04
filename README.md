@@ -18,3 +18,5 @@
 - AL/ML
 - Data Theft Engineer
 - Cloud Khor
+
+## Amra code kortasi
