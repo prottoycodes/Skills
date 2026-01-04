@@ -12,3 +12,9 @@
 - HTMl
 - GO
 - C++
+
+## Prottoys skills
+
+- AL/ML
+- Data Theft Engineer
+- Cloud Khor
